@@ -9,9 +9,11 @@
   3. Chomping with Chica: 0 to 100
   4. Puppet Patrol: 10 to 30
   5. Hare Pares: 360s to 60s
-  6. TBA: 5 to 25
-  7. TBA: 10 to 30
-  8. TBA: 360 (always)
-  9. TBA: 5 to 20
+  6. Pirate Plunder: 5 to 25
+  7. Circus Sorter: 10 to 30
+  8. Golden Freedsweeper: 360 (always)
+  9. Mangle Tangle Mania: 5 to 20
   10. Cupcake Clicker: 50 to 200
-  11. TBA: 20 to 100
+  11. Scott's Slots: 20 to 100
+
+Toy Freddy is a "6AM jumpscare" animatronic and is checked before the 6AM cutscene shows up. This includes all boss fights, including Salvage. The game checks for each 6AM jumpscare animatronic, and if they would jumpscare you, the game deducts beartraps or jumpscares you for each one of them.

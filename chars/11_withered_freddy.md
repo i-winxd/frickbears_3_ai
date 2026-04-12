@@ -1,9 +1,28 @@
 # Withered Freddy
 
 - Walks in the window outside your office, left to right, where the doors must be closed when he reaches a corner.
-- At AI 0 (using this for technical reasons), it takes about 15.3 seconds for him to cross the hallway. Once he crosses, he jumpscares you in 3 seconds.
-- At AI 10, that's 7.67 seconds. Once he crosses, he jumpscares you in 2.25 seconds.
-- At AI 20, that,s 5.1 seconds. Once he crosses, he jumpscares you in 1.5 seconds.
-- You may notice the footsteps stop when he crosses entirely. That's also when he disappears.
-- The footstep audio is panned.
-- The block sound is distinct.
+- On other side (when he stops making footsteps) you have 1.5 seconds on AI 20 to close the door (3 seconds on AI 0).
+- Makes 17 footsteps
+
+| AI | Time to reach other side |
+|----|---------------|
+| 1 | 31.52 |
+| 2 | 28.89 |
+| 3 | 26.67 |
+| 4 | 24.76 |
+| 5 | 23.11 |
+| 6 | 21.67 |
+| 7 | 20.39 |
+| 8 | 19.26 |
+| 9 | 18.25 |
+| 10 | 17.33 |
+| 11 | 16.51 |
+| 12 | 15.76 |
+| 13 | 15.07 |
+| 14 | 14.44 |
+| 15 | 13.87 |
+| 16 | 13.33 |
+| 17 | 12.84 |
+| 18 | 12.38 |
+| 19 | 11.95 |
+| 20 | 11.56 |
