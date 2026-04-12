@@ -1,6 +1,6 @@
 # Dreadbear
 
-- Spawns after this many seconds: `round((750 / (AI + 10)) * random_range(0.75, 1.25))` (which means 10 to 5 seconds on average).
+- Spawns after this many seconds: `round((750 / (AI + 10)) * random_range(0.75, 1.25))`.
 - Once his rising animation finishes playing, you have `10 - AI/4` seconds to react otherwise **(5 seconds on AI 20)**
 - Won't appear with any other window animatronic, and the required candy won't be in the same place as Nightmarionne
 - If Foxy or Endo is at the window, when the spawn timer hits 0, Dreadbear will wait until the others leave
