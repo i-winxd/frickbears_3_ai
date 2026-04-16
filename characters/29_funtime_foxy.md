@@ -4,7 +4,7 @@
 - Showtimes always occur in 15-minute intervals.
 
 
-*For the table below: Each time the showtime is calculated or delayed, multiply the delay by a random value from `0.75` to `1.25`, **round** (not ceil or floor) to the nearest 15 seconds, and then force the value betwee 15 and 405.
+*For the table below: Each time the showtime is calculated or delayed, multiply the delay by a random value from `0.75` to `1.25`, **round** (not ceil or floor) to the nearest 15 seconds, and then force the value between 15 and 405.*
 
 | AI | Showtime Delay | MM:SS |
 |------|---------|-------|
