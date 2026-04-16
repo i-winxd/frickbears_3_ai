@@ -2,6 +2,7 @@
 
 - Only takes effect on standard gameplay, not custom night.
 - AI is set only when the clock reaches this time.
+- AI never goes down. You cannot use the rewind clock to make an animatronic less active than they are.
 - Only the base animatronics, or the animatronics that were salvaged will *actually* have their AIs set. Otherwise, ignore the row.
 
 ## Easy
