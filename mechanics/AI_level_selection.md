@@ -1,6 +1,6 @@
 # AI Levels Per Night
 
-- Only takes affect on standard gameplay, not custom night.
+- Only takes effect on standard gameplay, not custom night.
 - AI is set only when the clock reaches this time.
 - Only the base animatronics, or the animatronics that were salvaged will *actually* have their AIs set. Otherwise, ignore the row.
 
