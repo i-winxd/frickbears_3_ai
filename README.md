@@ -4,6 +4,11 @@ Tags: Five Nights at Frickbear's 3, Wiki
 
 These are datamined from Five Nights at Frickbear's 3. https://gamejolt.com/games/frickbears3/930477
 
+This is meant to document how the game mechanics and the AI works for this game.
+This is accurate as of the latest commit time, version 1.1.4.
+
+**Spoilers, obviously.**
+
 Feel free to copy-paste this into any Wiki you like. While this is mostly accurate, beware of mindslips. I am not responsible if you follow what happens to be misinformation.
 
 This assumes you know what the animatronics do based on their descriptions.
