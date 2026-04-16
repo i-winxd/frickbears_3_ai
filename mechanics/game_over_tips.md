@@ -260,11 +260,25 @@ Popgoes
 * Pay attention to where Popgoes is looking while in the showroom - It'll give away which room he intends to move to next.
 * Popgoes will make a sound when he moves from his initial position. Listen out for it to know when he leaves.
 
+Funtime Chica
+
+* Gamble responsibly.
 
 Felix
 
 * Don't write checks you can't cash.
 
+Salvage
+
+* The flashlight will force Salvage to move faster.
+* Salvage will always go for the doors after being zapped, and will typically go for the breakers after that.
+* Wires in the vents will squeak when they first appear. Listen out for them.
+
+<!-- * You can use your flashlight on him in the cameras to drain his HP and make him move faster.
+* The volume of his footsteps changes depending on where he moves to. Listen out for his audio cues to know where he's going.
+* He moves faster when the lights are out, and will always go for the doors after turning them off.
+* He can be kept out by keeping the doors closed, but you'll need to let him in to deal damage.
+* Certain items may work on him just as they do with other animatronics. -->
 
 Nightmare
 
