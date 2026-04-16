@@ -1,3 +1,5 @@
+# Game over tips
+
 Generic
 
 * Work smarter, and harder.
@@ -149,7 +151,7 @@ Nightmare Fredbear
 * Keep an eye on the temperature meter.
 
 
-Nightmare Bb
+Nightmare BB
 
 * Be sure to deal with him before you switch to another camera.
 * Be prepared for him to show up every time you switch cameras.
