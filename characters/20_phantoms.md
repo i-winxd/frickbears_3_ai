@@ -4,4 +4,4 @@
 - Certain phantom aninmatronics appear more than others.
 - Jumpscares trigger faster the higher the AI level.
 - Adds 10 to your temperature on jumpscare (25% of max)
-- No explicit effects for SP AI.
+- SP AI will only make the female phantoms active.
